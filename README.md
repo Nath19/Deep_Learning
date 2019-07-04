@@ -5,4 +5,4 @@
 
 
 
-###This repository contains examples of popular deep learning algorithms implemented in Python.
+### This repository contains examples of popular deep learning algorithms implemented in Python.
