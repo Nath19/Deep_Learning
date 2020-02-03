@@ -9,8 +9,6 @@
 
 ## Artificial Neural Networks
 
-![Artificial-Neural-Networks-Man-vs-Machine-735x400](images/Artificial-Neural-Networks-Man-vs-Machine-735x400.jpg)
-
 In this part you will learn:
 
 - The Intuition of ANNs
@@ -25,12 +23,13 @@ In this part you will learn:
 
 - How to do some Parameter Tuning on your ANN to improve its performance
 
+![Artificial-Neural-Networks-Man-vs-Machine-735x400](images/Artificial-Neural-Networks-Man-vs-Machine-735x400.jpg)
+
+
+
 ## Convolutional Neural Networks
 
-![resi](images/resi.png)
-
-
-- In this part you will learn:
+In this part you will learn:
 
 - The Intuition of CNNs
 
@@ -39,3 +38,6 @@ In this part you will learn:
 - How to predict what is inside a single image (Homework Challenge)
 
 - How to improve a CNN
+
+![resi](images/resi.png)
+
