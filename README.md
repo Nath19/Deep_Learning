@@ -1,13 +1,15 @@
 # Deep_Learning
 
 
-![DL](DL.jpg)
+![DL](images/DL.jpg)
 
 
 
 ### This repository contains examples of popular deep learning algorithms implemented in Python.
 
-## Artificial Neural Networks!
+## Artificial Neural Networks
+
+![Artificial-Neural-Networks-Man-vs-Machine-735x400](images/Artificial-Neural-Networks-Man-vs-Machine-735x400.jpg)
 
 In this part you will learn:
 
@@ -24,6 +26,8 @@ In this part you will learn:
 - How to do some Parameter Tuning on your ANN to improve its performance
 
 ## Convolutional Neural Networks
+
+![resi](images/resi.png)
 
 
 - In this part you will learn:
