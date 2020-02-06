@@ -56,3 +56,23 @@ In this part, we will take part in a real R&D process to build a robust and rele
 - We will learn how to evaluate a RNN model, and more generally a Regression model.
 
 ![rnn](images/rnn.png)
+
+# Self Organizing Maps
+
+In this part you will learn:
+
+- The Intuition of SOMs
+
+- How to build a SOM
+
+- How to return the specific features (like frauds) detected by the SOM
+
+- How to make a Hybrid Deep Learning Model
+
+![Som1](images/Som1.png)
+
+
+
+*Let's see an example*
+
+![Som2](images/Som2.png)
